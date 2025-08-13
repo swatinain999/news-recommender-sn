@@ -50,17 +50,14 @@ Contains headlines, descriptions, and categories for thousands of news articles.
 
 ---
 
-## 🔍 Example Output
+## 🔍 Example Output 
 
-**Input Headline:**  
-`"Tech giants release new AI model"`
+**Input Headline:** "NASA plans new mission to explore Mars in 2026"
 
-**Recommended Articles:**
-1. AI model from Google shows breakthrough in NLP  
-2. OpenAI launches next-gen chatbot  
-3. Machine learning trends to watch in 2025  
-
-![Recommendations Demo](images/recommendations_demo.png)
+**Top 3 Recommended Articles:**
+1. **"Mars Rover Sends Back Stunning Images of the Red Planet"** – Space category
+2. **"New SpaceX Rocket Design Announced for Future Missions"** – Science category
+3. **"Astronomers Discover Water Traces in Mars Crater"** – Space category
 
 ---
 
