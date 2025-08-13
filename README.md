@@ -37,7 +37,8 @@ Contains headlines, descriptions, and categories for thousands of news articles.
 ---
 
 ## 📊 Project Workflow
-![Workflow Diagram](images/workflow_diagram.png)
+![Workflow Diagram](https://raw.githubusercontent.com/swatinain999/news-recommender-sn/main/images/workflow_diagram.png)
+
 
 ---
 
