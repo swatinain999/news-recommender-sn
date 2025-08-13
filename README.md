@@ -62,11 +62,6 @@ Contains headlines, descriptions, and categories for thousands of news articles.
 ---
 
 
-## ⚙️ Installation
-```bash
-git clone https://github.com/yourusername/news-recommendation-system.git
-cd news-recommendation-system
-pip install -r requirements.txt
 
 
 ▶️ Usage
@@ -88,6 +83,12 @@ Author: Swati Nain
 📧 Email: swatinain@gmail.com
 🔗www.linkedin.com/in/swati-nain-366b32322
 
+
+## ⚙️ Installation
+```bash
+git clone https://github.com/yourusername/news-recommendation-system.git
+cd news-recommendation-system
+pip install -r requirements.txt
 
 ---
 
