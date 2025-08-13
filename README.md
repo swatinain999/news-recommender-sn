@@ -61,11 +61,6 @@ Contains headlines, descriptions, and categories for thousands of news articles.
 
 ---
 
-## 🖼 Visualizations
-Example WordCloud for **Technology** category:  
-![Science WordCloud](images/science_wordcloud.png)
-![Category Distribution](images/category_distribution.png)
-
 
 ## ⚙️ Installation
 ```bash
