@@ -37,7 +37,15 @@ Contains headlines, descriptions, and categories for thousands of news articles.
 ---
 
 ## 📊 Project Workflow
-![Workflow Diagram](https://raw.githubusercontent.com/swatinain999/news-recommender-sn/main/images/workflow_diagram.png)
+
+1. **Dataset Load** – Read the news CSV file (headline, short description, category).
+2. **Data Preprocessing** – Clean text, remove stopwords, lowercase, tokenization.
+3. **Feature Extraction** – Convert text into numerical vectors using TF-IDF.
+4. **Cosine Similarity Calculation** – Measure similarity between articles.
+5. **Recommendation Function** – Select top-N similar articles.
+6. **Visualization** – WordCloud for keyword insights.
+7. **Output** – List of recommended news articles.
+
 
 
 ---
